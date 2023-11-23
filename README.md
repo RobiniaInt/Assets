@@ -37,3 +37,9 @@ specifying the license under which these assets are uploaded -- for
 example, by specifying a Creative Commons license suited to your needs.
 
 [Creative Commons License Choice Tool](https://creativecommons.org/choose/)
+
+# Git Push
+
+git add .
+git commit -m initialcommit
+git push origin main
